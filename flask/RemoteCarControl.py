@@ -1,5 +1,4 @@
 # Remote Car Control with Video Streaming by Flask web service    
-
 #Import GPIO, time library
 from flask import Flask, render_template, request, Response
 import RPi.GPIO as GPIO                 
